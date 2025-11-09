@@ -1,20 +1,33 @@
-# Food Delivery Website
+ 🍔 Food Ordering Web App
 
-This project is a food ordering website built using React and Vite, along with HTML and CSS (front-end part). The app allows users to browse a menu, add items to their cart, and place orders. It also includes a sign-in/sign-up functionality.
+A modern and responsive **Food Ordering Web Application** built using **React.js**.  
+This app allows users to browse restaurants, view menus, add items to a cart, and place orders seamlessly — offering a real-world experience of an online food delivery service.
 
-## Features
+---
 
-- **Home page**: Displays the menu and food items <br>
-- **Cart page**: Shows the items added to the cart and allows users to update quantities or remove items <br>
-- **Order page**: Allows users to review their order and proceed to checkout <br>
-- **Sign in/sign up popup**: Enables users to create an account or log in to an existing account <br>
+## 🚀 Features
 
-## Technologies Used
+- 🍕 **Browse Restaurants & Menus** — View multiple restaurants and their menus dynamically.
+- 🛒 **Add to Cart** — Users can add, remove, and update items in the shopping cart.
+- 💳 **Checkout Process** — Includes order summary and mock payment flow.
+- 🔍 **Search & Filter** — Quickly find dishes or restaurants.
+- 📱 **Responsive UI** — Fully optimized for mobile, tablet, and desktop.
+- 🌙 **Dark/Light Mode** — Toggle between visual themes.
+- ⚙️ **State Management** — Built with React Hooks and Context API (or Redux if used).
+- 💬 **Real-Time Feedback** — Toast notifications for actions like adding items to cart.
 
-- React + Vite
-- HTML
-- CSS
+---
 
+## 🧩 Tech Stack
+
+| Technology | Description |
+|-------------|-------------|
+| **React.js** | Frontend UI library |
+| **React Router** | Client-side navigation and routing |
+| **Context API / Redux** | State management |
+| **CSS / Tailwind CSS / Styled Components** | Styling and responsiveness |
+| **React Icons** | Icons and UI assets |
+| **JSON / Mock API** | Mock data for restaurants and menus |
 ## Screenshots
 
 <img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/0c2b312d-b1cf-450f-a21d-4b3216006cac" />
