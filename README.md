@@ -15,22 +15,13 @@ This project is a food ordering website built using React and Vite, along with H
 - HTML
 - CSS
 
-## Video
-
-You can find the video [here](https://vimeo.com/manage/videos/951348496).
-
 ## Screenshots
 
-![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-1.png?token=GHSAT0AAAAAACPHGDOCSWAVZV7OF244A3HUZSWRYXQ)
-![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-2.png?token=GHSAT0AAAAAACPHGDODOPUYOVVQU7OT4DEGZSWRY5A)
-![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-3.png?token=GHSAT0AAAAAACPHGDOCPMVLHBLWQYCYL4AIZSWRZDQ)
-![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-4.png?token=GHSAT0AAAAAACPHGDODU6OW3PM4JOQRLIBOZSWRZIA)
-![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-5.png?token=GHSAT0AAAAAACPHGDODEXY4Y3QEQO5FK3SSZSWRZOA)
+<img width="1919" height="894" alt="image" src="https://github.com/user-attachments/assets/0c2b312d-b1cf-450f-a21d-4b3216006cac" />
+<img width="1917" height="895" alt="image" src="https://github.com/user-attachments/assets/33a95f0d-adff-4446-810d-ff8c288b1bff" />
+<img width="1919" height="895" alt="image" src="https://github.com/user-attachments/assets/74eb39ea-71c9-4c1e-aae3-ddfeed9301da" />
 
-## Mobile Size Screen
 
-![Food deivery app example](https://raw.githubusercontent.com/olyanya/react-food-delivery-website/main/src/assets/examples/food-delivery-example-6.png?token=GHSAT0AAAAAACPHGDODQAVUEO5GZIYSQPMQZSWRZYQ)
 
-## License
 
-This project is licensed under the MIT License.
+
